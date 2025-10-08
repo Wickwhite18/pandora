@@ -6,7 +6,7 @@
 <img src="https://th.bing.com/th/id/OIP.dcdTLANDPGPrcgbXBnBWjAHaEK?rs=1&pid=ImgDetMain" style="height: 5%; width: 55%;"><br>
 <img src="https://kosred.com/a/pvwnwx.png" style="height: 30%; width: 30%;"><br>
 </center>
-<span>Do Not Recode This Project, Skiddo Scripter.</span><br>
+<span>Recoding/Modifying this code is allowed</span><br>
 </p>
 
 #Feature
@@ -96,3 +96,4 @@
     11. If the tool has an error in the module, try typing python3 setup.py
 ```
 <span>Thanks For : JogjaXploit</span>
+
